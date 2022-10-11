@@ -2,3 +2,7 @@
 *.xml
 
 .idea/lab1_04.iml
+
+__pycache__/
+
+.idea/
